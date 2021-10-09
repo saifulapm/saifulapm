@@ -10,7 +10,7 @@ $ uname -a
 Saiful Islam (I am error..)
 
 $ cat /etc/profile
-DOMAIN=saifulapm.io
+DOMAIN=saifulapm.github.io
 GITHUB=saifulapm
 TWITTER=saifulapm
 ```
